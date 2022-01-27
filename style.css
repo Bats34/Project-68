@@ -1,0 +1,62 @@
+body
+{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    font-size: 45px;
+    font-family: fantasy;
+    font-weight: 200;
+}
+#me {
+    width: 500px;
+    height: 450px;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+.nav navbar-nav {
+    text-decoration-color: aliceblue;
+}
+
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999;
+    background-color: blueviolet;
+}
+
+input
+{
+    background: #f542d1;
+}
+#draw {
+    width: 370px;
+    height: 400px;
+}
+img {
+    width: 300px;
+    height: 400px;
+}
+p {
+    font-family: monospace;
+    font-size: 35px;
+}
